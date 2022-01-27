@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and studying
 - 🌱 I’m currently learning python and mysql
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on gmail
+- 📫 How to reach me: on gmail
 
 <!---
 CatOrLeader/CatOrLeader is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
