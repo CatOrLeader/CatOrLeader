@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CatOrLeader
 - 👀 I’m interested in coding and studying
-- 📖 I'm already know: Java, C++, C, Python, VerilogHDL, RARS (RISC-V Assembler and Runtime Simulator), LaTeX
+- 📖 I'm already know: Java, C++, C, Python, VerilogHDL, RARS (RISC-V Assembler and Runtime Simulator), LaTeX, UML
 - 🌱 I’m currently learning about DB and Algorithms
 - 💞️ I’m looking to collaborate on interesting new IT projects
 - 📫 How to reach me: on gmail / telegram
