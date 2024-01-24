@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @CatOrLeader<br>👀 I’m interested in coding and studying<br>📖 I'm already know: Java, C++, C, Python, VerilogHDL, RARS (RISC-V Assembler and Runtime Simulator), LaTeX, UML<br>🌱 I’m currently learning about DB and Algorithms<br>💞️ I’m looking to collaborate on interesting new IT projects<br>📫 How to reach me: on gmail / telegram
+👋 Hi, I’m @CatOrLeader<br>👀 I’m interested in coding and studying<br>📖 I'm already know: Java, C++, C, Python, VerilogHDL, RARS (RISC-V Assembler and Runtime Simulator), LaTeX, UML<br>🌱 I’m currently learning about DB and Fullstack Development<br>💞️ I’m looking to collaborate on interesting new IT projects<br>📫 How to reach me: on gmail / telegram
 
 
 ## 🌐 Socials:
