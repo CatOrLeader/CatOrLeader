@@ -1,21 +1,50 @@
-# 💫 About Me:
-👋 Hi, I’m @CatOrLeader<br>👀 I’m interested in coding and studying<br>📖 I'm already know: Java, C++, C, Python, VerilogHDL, RARS (RISC-V Assembler and Runtime Simulator), LaTeX, UML<br>🌱 I’m currently learning about DB and Fullstack Development<br>💞️ I’m looking to collaborate on interesting new IT projects<br>📫 How to reach me: on gmail / telegram
+# Artur Mukhutdinov
 
+**Tech Lead · Streaming Data Platforms · Java / Flink / Kubernetes**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sultanmobb) 
+I build the systems data engineers use to move and operate data. At **X5 Tech**, I created the streaming foundation of an enterprise data platform and now lead the team developing it, while continuing to write code.
 
-📫 [Telegram](https://t.me/CatOrLeader)
+The platform now runs **200+ production streaming pipelines**, processing **approximately 20 TB every seven days**. Earlier platform work reduced allocated CPU from **450 to 250 cores (44%)**.
 
-📧 [Gmail](https://mail.google.com/mail/u/arturmuxutdinov@gmail.com)
+[CV in English (PDF)](resume/Artur_Mukhutdinov_CV_EN.pdf) · [Резюме на русском (PDF)](resume/Artur_Mukhutdinov_CV_RU.pdf) · [Telegram](https://t.me/CatOrLeader) · [Email](mailto:arturmuxutdinov@gmail.com)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CatOrLeader&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=CatOrLeader&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CatOrLeader&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[Русская версия профиля](README.ru.md)
 
----
-[![](https://visitcount.itsvg.in/api?id=CatOrLeader&icon=5&color=12)](https://visitcount.itsvg.in)
+## What I build
 
+- **Streaming platforms:** Apache Flink architecture, Kubernetes deployment and operating models shared across Data Hubs.
+- **Tools for data engineers:** reusable ingestion frameworks and a platform for configuring, deploying and operating streaming pipelines, with GitLab CI/CD and HashiCorp Vault integration.
+- **CDC and lakehouse integrations:** PostgreSQL change data capture, schema evolution, signaling tables, Kafka-to-Iceberg ingestion and pipeline recovery with checkpoints/savepoints.
+- **Production operations:** resource allocation, secrets and certificates, monitoring and diagnostics across Flink, Kubernetes and the surrounding services.
+
+Since April 2026, I have led four engineers across streaming loaders, backend services, infrastructure and observability. I work with platform users and product managers to set priorities, review architecture, develop engineers and deliver changes.
+
+## Open-source work
+
+I have contributed changes merged into **Apache Amoro** and **Apache Flink CDC**:
+
+- UUID handling in Amoro's Iceberg table compaction path.
+- Recursive JAR discovery for Flink CDC deployment classpaths.
+
+My work also includes internal PostgreSQL CDC extensions for schema evolution and signaling tables. Shareable technical details and contribution references are available on request.
+
+## Public projects
+
+- [**titan-pulse**](https://github.com/CatOrLeader/titan-pulse) — a personal streaming infrastructure sandbox in development: Helm-based Flink Kubernetes Operator, observability and a local data stack with Kafka, MinIO, Iceberg REST and Trino.
+- [**Tinkoff Link Tracker**](https://github.com/CatOrLeader/Tinkoff_Link_Tracker) — a Java backend course project built on the course template: Telegram notifications for tracked links, with Spring Boot, PostgreSQL, optional Kafka and Docker Compose.
+
+## Stack
+
+**Core:** Java, Python, SQL · Apache Flink, Flink CDC, Kafka, Iceberg, Amoro, PostgreSQL.
+
+**Platform:** Kubernetes, Docker, Helm, GitLab CI/CD, HashiCorp Vault, MinIO, Grafana, Prometheus.
+
+**Backend:** Spring Boot, JUnit, Testcontainers. Additional experience with Apache NiFi and SAP HANA CDC development.
+
+## Work with me
+
+Interested in **Senior Data Platform / Software Engineer** and **hands-on Tech Lead** roles, with at least 40% of my time spent coding. Open to remote work, roles in Russia, relocation with employer support, and contract or part-time opportunities.
+
+Innopolis University graduate, 2026. Russian — native; English — B2, self-assessed.
+
+Reach me on [Telegram](https://t.me/CatOrLeader) or by [email](mailto:arturmuxutdinov@gmail.com).
