@@ -1,23 +1,18 @@
 # Artur Mukhutdinov
 
-**Tech Lead · Streaming Data Platforms · Java / Flink / Kubernetes**
+![Code. Data. Systems. — CatOrLeader](assets/profile-banner.png)
 
-I build the systems data engineers use to move and operate data. At **X5 Tech**, I created the streaming foundation of an enterprise data platform and now lead the team developing it, while continuing to write code.
+**Software Engineer & Tech Lead · Streaming Systems**
 
-The platform now runs **200+ production streaming pipelines**, processing **approximately 20 TB every seven days**. Earlier platform work reduced allocated CPU from **450 to 250 cores (44%)**.
+I build the systems data engineers use to move and operate data. My work connects application code, infrastructure and the tools around them. As a tech lead, I stay involved in implementation and use feedback from platform users to guide engineering priorities.
 
-[CV in English (PDF)](resume/Artur_Mukhutdinov_CV_EN.pdf) · [Резюме на русском (PDF)](resume/Artur_Mukhutdinov_CV_RU.pdf) · [Telegram](https://t.me/CatOrLeader) · [Email](mailto:arturmuxutdinov@gmail.com)
+[CV in English (PDF)](resumes/Artur_Mukhutdinov_CV_EN.pdf) · [CV in Russian (PDF)](resumes/Artur_Mukhutdinov_CV_RU.pdf) · [Telegram](https://t.me/CatOrLeader) · [Email](mailto:arturmuxutdinov@gmail.com)
 
-[Русская версия профиля](README.ru.md)
+## Engineering focus
 
-## What I build
-
-- **Streaming platforms:** Apache Flink architecture, Kubernetes deployment and operating models shared across Data Hubs.
-- **Tools for data engineers:** reusable ingestion frameworks and a platform for configuring, deploying and operating streaming pipelines, with GitLab CI/CD and HashiCorp Vault integration.
-- **CDC and lakehouse integrations:** PostgreSQL change data capture, schema evolution, signaling tables, Kafka-to-Iceberg ingestion and pipeline recovery with checkpoints/savepoints.
-- **Production operations:** resource allocation, secrets and certificates, monitoring and diagnostics across Flink, Kubernetes and the surrounding services.
-
-Since April 2026, I have led four engineers across streaming loaders, backend services, infrastructure and observability. I work with platform users and product managers to set priorities, review architecture, develop engineers and deliver changes.
+- **Developer experience:** reusable loaders, configuration tools, Kubernetes deployment templates and CI/CD automation.
+- **Data in motion:** PostgreSQL CDC, schema evolution, signaling tables, Kafka-to-Iceberg ingestion and checkpoint/savepoint recovery.
+- **Production reliability:** resource allocation, secrets and certificates, monitoring and diagnostics.
 
 ## Open-source work
 
@@ -26,12 +21,7 @@ I have contributed changes merged into **Apache Amoro** and **Apache Flink CDC**
 - UUID handling in Amoro's Iceberg table compaction path.
 - Recursive JAR discovery for Flink CDC deployment classpaths.
 
-My work also includes internal PostgreSQL CDC extensions for schema evolution and signaling tables. Shareable technical details and contribution references are available on request.
-
-## Public projects
-
-- [**titan-pulse**](https://github.com/CatOrLeader/titan-pulse) — a personal streaming infrastructure sandbox in development: Helm-based Flink Kubernetes Operator, observability and a local data stack with Kafka, MinIO, Iceberg REST and Trino.
-- [**Tinkoff Link Tracker**](https://github.com/CatOrLeader/Tinkoff_Link_Tracker) — a Java backend course project built on the course template: Telegram notifications for tracked links, with Spring Boot, PostgreSQL, optional Kafka and Docker Compose.
+Contribution references and shareable technical details are available on request.
 
 ## Stack
 
@@ -43,7 +33,7 @@ My work also includes internal PostgreSQL CDC extensions for schema evolution an
 
 ## Work with me
 
-Interested in **Senior Data Platform / Software Engineer** and **hands-on Tech Lead** roles, with at least 40% of my time spent coding. Open to remote work, roles in Russia, relocation with employer support, and contract or part-time opportunities.
+Open to **Senior Software / Data Platform Engineer** and **Tech Lead** roles, as well as other opportunities where my experience fits. I enjoy coding and architecture alongside technical leadership. Remote work, employer-supported relocation, contract and part-time opportunities are all welcome.
 
 Innopolis University graduate, 2026. Russian — native; English — B2, self-assessed.
 
